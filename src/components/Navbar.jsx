@@ -12,7 +12,7 @@ const Navbar = () => {
             {navLists.map((nav)=>
             (
             <div key={nav} className="px-5 text-sm cursor-pointer text-gray hover:text-white transition-all">
-                {nav}
+                {nav} 
             </div>
             ))}
             
