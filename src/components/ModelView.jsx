@@ -12,7 +12,7 @@ const ModelView = ({
   groupRef,
   gsapType,
   controlRef,
-  setRotationSize,
+  setRotationState,
   size,
   item,
 }) => {
